@@ -1,0 +1,45 @@
+/* TEAM */
+Ibis: Greg Raven
+Site: http://en.gravatar.com/gregraven
+Twitter: @gregraven
+Location: California
+
+Narthex: Dik Dik, Boy from Africa
+Site: http://en.gravatar.com/gregraven
+Twitter: @gregraven
+Location: California
+
+Hautboy: Victor Max
+Site: http://en.gravatar.com/gregraven
+Twitter: @gregraven
+Location: California
+
+Sackbut: Secretary-General Joseph Hill
+Site: http://en.gravatar.com/gregraven
+Twitter: @gregraven
+Location: California
+
+Sanctum: Hugh Cant
+Site: http://en.gravatar.com/gregraven
+Twitter: @gregraven
+Location: California
+
+Jester: Anne T. Gravity
+Site: http://en.gravatar.com/gregraven
+Twitter: @gregraven
+Location: California
+
+Grand Curator: Bumper "Beanpole" Blimpley
+Site: http://en.gravatar.com/gregraven
+Twitter: @gregraven
+Location: California
+
+/* THANKS */
+Name: Mom
+                        
+/* SITE */
+Language:  English
+Doctype: HTML5
+Standards: HTML5, CSS3
+Components: jQuery, Twitter Bootstrap
+Software: BBEdit, Dreamweaver, Photoshop

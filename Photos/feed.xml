@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:83F3D3C9-E120-4E1E-B5E8-07A72D9970F4</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-05-05T06:24:45-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:BEA22C39-802D-4525-A390-52EC0899F30C</id>
+  <title>The Other Side</title>
+  <title xmlns="urn:iweb:">The Other Side</title>
+  <in-navbar xmlns="urn:iweb:">BEA22C39-802D-4525-A390-52EC0899F30C</in-navbar>
+  <link rel="alternate" href="../index.php"/>
+  <updated>2015-05-05T06:24:45.001-07:00</updated>
+  <content>Home Page</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BEA22C39-802D-4525-A390-52EC0899F30D</id>
+  <title>My Albums</title>
+  <title xmlns="urn:iweb:">My Album Side</title>
+  <in-navbar xmlns="urn:iweb:">BEA22C39-802D-4525-A390-52EC0899F30D</in-navbar>
+  <link rel="alternate" href="My_Albums/My_Albums.html"/>
+  <updated>2015-05-05T06:24:45.001-07:00</updated>
+  <content>My Albums</content>
+ </entry>
+</feed>

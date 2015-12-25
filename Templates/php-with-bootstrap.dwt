@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_assets/includes/meta.htm'; ?>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>The Other Side</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_assets/includes/navbar.htm'; ?>
+<div class="container-fluid">
+  <header class="page-header"> <!-- TemplateBeginEditable name="page-header" -->
+    <h1> Page header </h1>
+    <!-- TemplateEndEditable --> </header>
+  <div class="row">
+    <div class="col-md-12"> <!-- TemplateBeginEditable name="Body" -->
+      <h2> Body </h2>
+      <p> With text. </p>
+      <!-- TemplateEndEditable --> </div>
+    <!-- /.col-md-12 --> 
+  </div>
+  <!-- /.row -->
+  <hr>
+</div>
+<!-- /.container -->
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_assets/includes/footer.htm'; ?>
+<!-- TemplateBeginEditable name="bottom-js" -->
+<!-- #BeginLibraryItem "/Library/active-home.lbi" --><script>
+  $(document).ready(function () {
+    $('#home').addClass('active');
+  });
+</script><!-- #EndLibraryItem -->
+<!-- TemplateEndEditable -->
+</body>
+</html>

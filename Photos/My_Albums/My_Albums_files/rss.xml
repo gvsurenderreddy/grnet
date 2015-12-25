@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photo albums</title>
+    <link>http://www.gregraven.net/Photos/My_Albums/My_Albums.html</link>
+    <description>Photo albums</description>
+    <item>
+      <title>Bryce Canyon National Park</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Bryce_Canyon_National_Park.html</link>
+      <guid isPermaLink="false">ab876c0f-2d44-4812-aac0-4583c93bb355</guid>
+    </item>
+    <item>
+      <title>Carl Hayden Visitor Center</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Carl_Hayden_Visitor_Center.html</link>
+      <guid isPermaLink="false">64a04dc0-680a-4a56-9661-5c5d7a8d95bf</guid>
+    </item>
+    <item>
+      <title>Coral Pink Sand Dunes</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Coral_Pink_Sand_Dunes.html</link>
+      <guid isPermaLink="false">56d4b7d1-b1af-4ca1-807d-1fa8eee94c72</guid>
+    </item>
+    <item>
+      <title>Kodachrome Basin State Park</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Kodachrome_Basin_State_Park.html</link>
+      <guid isPermaLink="false">491720e6-872b-4179-b6e4-053388c4e3c9</guid>
+    </item>
+    <item>
+      <title>Neon Museum Boneyard</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Neon_Museum_Boneyard.html</link>
+      <guid isPermaLink="false">b452d683-51f2-456e-9dc1-6e6b223ffb72</guid>
+    </item>
+    <item>
+      <title>Page, AZ</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Page,_AZ.html</link>
+      <guid isPermaLink="false">daa7114c-acb6-4285-b805-a3a9dd543ba9</guid>
+    </item>
+    <item>
+      <title>Red Canyon State Park</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Red_Canyon_State_Park.html</link>
+      <guid isPermaLink="false">600a676d-2550-4117-b86e-f4b1c5cb47ae</guid>
+    </item>
+    <item>
+      <title>Snow Canyon State Park</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Snow_Canyon_State_Park.html</link>
+      <guid isPermaLink="false">cca3f4a9-5685-417a-bbdb-0aae6d0eaafc</guid>
+    </item>
+    <item>
+      <title>Upper Antelope Canyon</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Upper_Antelope_Canyon.html</link>
+      <guid isPermaLink="false">2058fc67-ffa7-45ad-9cba-d5a8235e5a7f</guid>
+    </item>
+    <item>
+      <title>Yosemite</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Yosemite.html</link>
+      <guid isPermaLink="false">cba13d67-b5cf-491f-8e0d-ed1f57baba8a</guid>
+    </item>
+    <item>
+      <title>Zion National Park</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/Zion_National_Park.html</link>
+      <guid isPermaLink="false">82b6c127-6aca-4a00-87fb-503023be7cf5</guid>
+    </item>
+    <item>
+      <title>2009 Tour de Apple Valley</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/2009_Tour_de_Apple_Valley.html</link>
+      <guid isPermaLink="false">a4ae4cdf-b4ac-43fa-89ad-dc04c719e952</guid>
+    </item>
+    <item>
+      <title>2010 Amgen Tour of California</title>
+      <link>http://www.gregraven.net/Photos/My_Albums/Pages/2010_Amgen_Tour_of_California.html</link>
+      <guid isPermaLink="false">8b30232b-0fc2-42d8-9be0-14c1a0563523</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site
+  base_url="http://www.gregraven.net/"
+  store_into="/home/grnet/public_html/sitemap.xml"
+  verbose="1"
+  >
+
+  <directory
+     path="/home/grnet/public_html/"
+     url="http://www.gregraven.net/"
+  />
+
+  <url
+     href="http://www.gregraven.net/index.html"
+     priority="1.0"
+  />
+
+<!-- This section is supposed to drop files and sub-directories I don't want crawled
+ -->
+	<filter action="drop" type="wildcard" pattern="*/_assets/*" />
+	<filter action="drop" type="wildcard" pattern="*/cgi-bin/*" />
+	<filter action="drop" type="wildcard" pattern="*/errorpages/*" />
+	<filter action="drop" type="wildcard" pattern="*/Library/*" />
+	<filter action="drop" type="wildcard" pattern="*/Scripts/*" />
+	<filter action="drop" type="wildcard" pattern="*/Templates/*" />
+
+<!-- This filter passes all HTML files and drops everything else -->
+	<filter action="pass" type="wildcard" pattern="*.html" />
+	<filter action="pass" type="wildcard" pattern="*.htm" />
+	<filter action="pass" type="wildcard" pattern="*.php" />
+	<filter action="drop" type="wildcard" pattern="*.*" />
+
+</site>

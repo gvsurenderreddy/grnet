@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: /
+Disallow: /_assets/
+Disallow: /cgi-bin/
+Disallow: /errorpages/
+Disallow: /Library/
+Disallow: /Templates/
+
+Sitemap: http://www.gregraven.net/sitemap.xml

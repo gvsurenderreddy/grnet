@@ -1,0 +1,58 @@
+﻿@charset "UTF-8";
+body {
+  position: relative; /* For scrollyspy */
+  padding-top: 50px; /* Account for fixed navbar */
+}
+h1 {
+	text-align:center;
+	padding-bottom:1em;
+}
+figure {
+	margin-bottom: 2em;
+	text-align: center;
+}
+/* Landscape phones
+------------------------- */
+@media (max-width:480px) {
+.page-header h1, .page-header p {
+	text-align: center;
+}
+.page-header h1 {
+	font-size: 24px;
+}
+.page-header p {
+	font-size: 18px;
+	line-height: 24px;
+}
+h2 {
+	font-size: 20px;
+}
+h3 { font-size: 16px; }
+}
+/* Tablet
+------------------------- */
+@media (max-width:767px) {
+.page-header h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 32px;
+}
+h3 {
+	font-size: 22px;
+}
+}
+/* Tablet to desktop
+------------------------- */
+@media (min-width:768px) and (max-width:979px) {
+.page-header h1 {
+	font-size: 39px;
+}
+h2 {
+	font-size: 36px;
+}
+}
+/* Desktop
+------------------------- */
+@media (min-width:980px) {
+}
