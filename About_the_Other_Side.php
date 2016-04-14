@@ -2,7 +2,7 @@
 <html lang="en-US"><!-- InstanceBegin template="/Templates/php-with-bootstrap.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="utf-8">
-<?php include $_SERVER['DOCUMENT_ROOT'].'/_assets/includes/meta.htm'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/_assets/includes/meta.htm'; ?>
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>About the Other Side</title>
 <!-- InstanceEndEditable -->
@@ -10,7 +10,7 @@
 <!-- InstanceEndEditable -->
 </head>
 <body>
-<?php include $_SERVER['DOCUMENT_ROOT'].'/_assets/includes/navbar.htm'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/_assets/includes/navbar.htm'; ?>
 <div class="container-fluid">
   <header class="page-header"> <!-- InstanceBeginEditable name="page-header" -->
     <h1> About the Other Side </h1>
@@ -64,7 +64,7 @@
   <hr>
 </div>
 <!-- /.container -->
-<?php include $_SERVER['DOCUMENT_ROOT'].'/_assets/includes/footer.htm'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/_assets/includes/footer.htm'; ?>
 <!-- InstanceBeginEditable name="bottom-js" --><!-- #BeginLibraryItem "/Library/active-about.lbi" --><script>
   $(document).ready(function () {
     $('#about').addClass('active');
